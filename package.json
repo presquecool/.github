@@ -1,6 +1,6 @@
 {
   "name": "presquecool-profile",
-  "private": true,
+  "private": false,
   "version": "1.0.0",
   "description": "Page d'organisation de presque.cool, rendue par GitHub depuis profile/README.md.",
   "homepage": "https://github.com/presquecool",
