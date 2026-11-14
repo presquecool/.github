@@ -6,5 +6,6 @@
   "homepage": "https://github.com/presquecool",
   "repository": "github:presquecool/.github",
   "author": "Tristan Hubert <tristan.hubert@gmail.com> (https://presque.cool)",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "packageManager": "pnpm@12.18.0"
 }
